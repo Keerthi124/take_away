@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785293404446",
+    "firebase_url": "https://ecomkee.firebaseio.com",
+    "project_id": "ecomkee",
+    "storage_bucket": "ecomkee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785293404446:android:b70c25f3b1eb8a4a9f010f",
+        "android_client_info": {
+          "package_name": "com.example.take_away"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785293404446-udrusjtlf7bu2n3r2kde9hor3d2hai4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKtZj0uF3yyHQy2Y4rDjsMDyyd4BwYiNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785293404446-udrusjtlf7bu2n3r2kde9hor3d2hai4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
